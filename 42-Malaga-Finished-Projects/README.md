@@ -6,7 +6,7 @@ This project consists of programming a library in C. Your library will have a lo
 
 #### Note
 
-![image](https://user-images.githubusercontent.com/20600238/193680059-1fad0700-d953-457a-998c-b9c05898043f.png)
+[![aarribas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl91wcc9900450gjvj4p3wjti/project/2564599)](https://github.com/JaeSeoKim/badge42)
 
 # get_next_line
 
@@ -16,4 +16,4 @@ The goal of this project is simple: write a function that returns a line read fr
 
 #### Note
 
-![image](https://user-images.githubusercontent.com/20600238/193679903-08093019-a586-4e1a-8b95-3bbce7e7cf93.png)
+[![aarribas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl91wcc9900450gjvj4p3wjti/project/2610335)](https://github.com/JaeSeoKim/badge42)
