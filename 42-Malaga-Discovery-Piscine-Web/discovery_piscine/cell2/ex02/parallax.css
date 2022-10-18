@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.parallax {
+    /* Set a specific height */
+    height: 100%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.parallax p {
+    padding-left: 50%;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    font-size: 10px;
+}
+.uno {
+        /* The image used */
+        background-image: url("https://wallpapercave.com/wp/wp3850825.jpg");
+}
+
+.dos {
+        /* The image used */
+        background-image: url("https://images4.alphacoders.com/936/936378.jpg");
+  
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+}
