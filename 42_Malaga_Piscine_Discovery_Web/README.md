@@ -9,7 +9,6 @@
 
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl91wcc9900450gjvj4p3wjti/stats?cursusId=3&coalitionId=piscine" alt="aarribas's 42 stats" /></a></p>
 
-[![sigutier's 42 Cellule4.0 - Rush Score](https://badge42.vercel.app/api/v2/cl5067tao001609l72zr1yapf/project/2634349)](https://github.com/JaeSeoKim/badge42)
 
 <br>
 
@@ -23,14 +22,5 @@
 <br>
 
 ### ⏰ Programming Time
-About 1 week
-
+1 Week
 <br>
-
-### 🌐 Web projects
-- [Basics](https://sigutier.github.io/42_Piscine_Discovery_Web/cell1/ex04/basics.html)
-- [Parallax](https://sigutier.github.io/42_Piscine_Discovery_Web/cell2/ex02/parallax.html)
-- [Card](https://sigutier.github.io/42_Piscine_Discovery_Web/cell2/ex03/card.html)
-- [Backgroound](https://sigutier.github.io/42_Piscine_Discovery_Web/cell3/ex00/backgroound.html)
-- [Balloon](https://sigutier.github.io/42_Piscine_Discovery_Web/cell3/ex01/balloon.html)
-- [Rush - Latest project](https://sigutier.github.io/42_Piscine_Discovery_Web/Rush/rush.html)
