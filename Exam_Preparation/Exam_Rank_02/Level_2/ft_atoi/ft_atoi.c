@@ -1,21 +1,32 @@
-int	ft_atoi(const char *str)
+int     ft_atoi(const char *str)
 {
-    int sig = 1;
-    int nb = 0;
+        int nb = 0;
+        int signo = 1;
+        int i = 0;
 
-    while(*str >= 8 && *str <= 13)
-    str++;
-    if(*str == '-')
-    sig = -1;
-    while(*str)
-    {
-        if(*str >= 48 && *str <= 57)
+        while(str[i] >= 8 && str[i] <= 13)
+                i++;
+        if(str[i] < 48 || str[i] > 57 || str[i] != '-')
+                return (0);
+        while(str[i])
         {
-            nb = nb * 10 + (*str - 48);
+                if(str[i] == '-')
+                {
+                        signo *= -1;
+                        i++;
+                }
+                if(str[i] >= 48 && str[i] <= 57)
+                nb = nb * 10 + (str[i] - 48);
+        i++;
         }
-        else
-        return(-1);
-        str++;
-    }
-    return(nb * sig);
+        return (nb * signo);
 }
+/*
+#include <stdio.h>
+
+int main (void)
+{
+        char str[] = "OH ! 13268!";
+
+        printf("en int es %d", ft_atoi(str));
+}*/
